@@ -48,11 +48,6 @@
 	url = ../tti.git
 	fetchRecurseSubmodules = on-demand
 	branch = .
-[submodule "functional"]
-	path = libs/functional
-	url = ../functional.git
-	fetchRecurseSubmodules = on-demand
-	branch = .
 [submodule "config"]
 	path = libs/config
 	url = ../config.git
